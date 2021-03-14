@@ -1,0 +1,8 @@
+header {
+     background-color: blue;
+     display: flex;
+}
+
+#tamanho {
+    width: 30vh;
+}
